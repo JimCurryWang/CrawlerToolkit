@@ -2,7 +2,7 @@
 CrawlerToolkit provides several tips in scraping  :blush:  
 index: `Proxy` `IP` `Python` `Crawler`
 
-##proxy IP Pool
+## Proxy IP Pool
 
     '''  
     #對於限制訪問速度的情況，我們可以通過time.sleep進行短暫休眠後再次爬取。  
