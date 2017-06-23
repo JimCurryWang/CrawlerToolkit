@@ -10,6 +10,9 @@
 第三步：提取網頁中ip地址和端口號信息 => def get_info(content):
 第四步：驗證代理ip的有效性          => def verif_ip(ip,port): 
 最後：調用各個函數
+
+@20170623 refer from 趙宏田,崔慶才...
+
 '''
 
 import urllib.request
